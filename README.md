@@ -48,16 +48,16 @@
 - For the SQL command to list orders with number of itens, this database was created using Wampserver. The series of pictures below show its population and the results of the Query.
 
 ![design](https://user-images.githubusercontent.com/68413884/90291287-f60f3680-de55-11ea-90e7-b5f91da797ee.jpg)
--Table design
+**-Table design**
 
 ![products](https://user-images.githubusercontent.com/68413884/90291280-f4457300-de55-11ea-87b9-f66a3f453dff.jpg)
--Products Table
+**-Products Table**
 
 ![clients](https://user-images.githubusercontent.com/68413884/90291284-f4de0980-de55-11ea-9e92-47c99a9578b4.jpg)
--Clients Table
+**-Clients Table**
 
 ![order](https://user-images.githubusercontent.com/68413884/90291285-f576a000-de55-11ea-8134-483f4182d2a8.jpg)
--Order Table
+**-Order Table**
 
 - To list the orders with the total number of items of each order, you can use the following SQL command:
 ```
@@ -73,3 +73,4 @@ GROUP BY O.ID_Order
 The result of this query is the table of the picture below, it shows every ID order and sum the quantities of the items of each diferent ID regarding each different order.
 
 ![sql](https://user-images.githubusercontent.com/68413884/90291288-f60f3680-de55-11ea-932f-adf8380e1fd5.jpg)
+**-SQL Result**
