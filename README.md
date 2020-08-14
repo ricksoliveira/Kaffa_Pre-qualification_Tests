@@ -10,7 +10,10 @@
 ---
 - How can I get it?
 
-  After downloading this repository, you can execute a .jar (executable Jar file) inside the `Kaffa_Test_1_2/dist/Kaffa_Test.jar` just by double clicking it.
+  After downloading this repository, you can execute a .jar (executable Jar file) inside the `Kaffa_Test_1_2/dist/Kaffa_Test.jar` just by double clicking it. As show in the gif bellow:
+  
+![dist](https://user-images.githubusercontent.com/68413884/90218514-5d87a080-ddda-11ea-84f4-2793c901707f.gif)
+  
 ---
 - How do I use this program and what does it do?
 
