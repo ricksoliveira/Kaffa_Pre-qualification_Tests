@@ -8,7 +8,7 @@
 
   The tests 1 and 2 are merged in the same exercise, divided each one in its own java class, the solution code for the Test 1 can be found in the class `/src/kaffa_test/CNPJ_Format_Validation.java` and the Test 2 is in the class `/src/kaffa_test/CNPJ_Digit_Validation.java`
 ---
-- How do I get it?
+- How can I get it?
 
   After downloading this repository, you can execute a .jar (executable Jar file) inside the `Kaffa_Test_1_2/dist/Kaffa_Test.jar` just by double clicking it.
 ---
