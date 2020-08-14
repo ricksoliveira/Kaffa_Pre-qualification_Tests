@@ -16,7 +16,7 @@
 
   In short, you only have to type a CNPJ number in the input field and click `Confirm`. It will show two dialogue boxes explaining if the given number is in a valid CNPJ format and if its digits valid according to the rules of the Brazil's Revenue Service. `Clear Field` erases the input field and `Exit` terminates the program.
   
-  This following gifs illustrates how this program is used and what it does:
+  The following gifs illustrates how this program is used and what it does:
   
 ![cnpj1](https://user-images.githubusercontent.com/68413884/90218080-514f1380-ddd9-11ea-9a55-dbbf038b564b.gif)
 
