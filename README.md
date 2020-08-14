@@ -37,13 +37,13 @@
 
 # Test #8 - Entity Relationship Diagram - Simple Order Manager
 
-- This simple Diagram has only two entities, Clients and Products that has one relationship between them: Orders, aswell as each one's attributes as shown in the picture below.
+- This simple Diagram has only two entities, `Clients` and `Products` that has one relationship between them: `Orders`, aswell as each one's attributes as shown in the picture below.
 
 ![MER](https://user-images.githubusercontent.com/68413884/90291286-f576a000-de55-11ea-9afa-2544636a9222.jpg)
 
 - Clients can order none or n products, aswell as products can be ordered by none or n clients.
 
-- The primary keys in the Orders relationship are three: ID_Client, ID_Order and ID_Product. With this is possible to have more than one product per ID_Order.
+- The primary keys in the Orders relationship are three: `ID_Client`, `ID_Order` and `ID_Product`. With this is possible to have more than one product per ID_Order.
 
 - For the SQL command to list orders with number of itens, this database was created using Wampserver. The series of pictures below show its population and the results of the Query.
 
