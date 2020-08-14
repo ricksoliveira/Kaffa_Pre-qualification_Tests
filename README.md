@@ -62,17 +62,11 @@
 - To list the orders with the total number of items of each order, you can use the following SQL command:
 ```
 SELECT O.ID_Order, SUM(O.Quantity) AS Number_of_itens`
-
 FROM orders O
-
 JOIN clients C
-
 ON O.ID_Client = C.ID
-
 JOIN products P
-
 ON O.ID_Product = P.ID
-
 GROUP BY O.ID_Order
 ```
 
