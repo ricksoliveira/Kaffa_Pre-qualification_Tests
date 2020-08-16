@@ -2,7 +2,7 @@
 
 ---
 
-# Tests #1 and #2 - CNPJ format and digits Validation Program
+# Tests #1 and #2 - CNPJ format and digits Validation Program using JAVA language
 
 - **What does this program do?**
 
